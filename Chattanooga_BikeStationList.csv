@@ -1,0 +1,39 @@
+station_id,name,latitude,longitude,address,bike_capacity
+1297,100 Manufacturers Rd,35.063014,-85.310469,100 Manufacturers Rd,19
+1299,200 River St Outdoor Chattanooga,35.06141,-85.306574,200 River St,25
+1301,301 Manufacturers Rd,35.063304,-85.315211,301 Manufacturers Rd,15
+1303,215 Broad St,35.053928,-85.310925,215 Broad St,19
+1305,Market St & E 14th St,35.036904,-85.307269,Market St & E 14th St,19
+1307,Market & E 4th Street,35.052701,-85.309483,Market and E 4th,19
+1309,Market St & W 12th St,35.042774,-85.309331,Market St & W 12th St,15
+1311,Market St & Cowart St,35.040771,-85.308394,Market St & Cowart St,19
+1313,Chestnut St & Riverfront Pkwy,35.056655,-85.310487,100 Riverfront Parkway,19
+1315,Carter St & W 12th St,35.043367,-85.312762,Carter St & W 12th St,15
+1317,Broad St & W 6th St,35.049429,-85.310399,Broad St & W 6th St,15
+1319,100 Walnut St,35.055687,-85.307813,100 Walnut St,25
+1321,High St & E 2nd St,35.054161,-85.305448,High St & E 2nd St,15
+1323,Power Alley & Riverfront Pkwy,35.055582,-85.312797,Power Alley & Riverfront Pkwy,17
+1325,Patten Parkway,35.0462019,-85.307395,17 Patten Parkway,11
+1327,ML King Blvd & Lindsay St,35.044973,-85.307015,M.L. King Blvd & Lindsay St,19
+1329,McCallie Ave & Lindsay St,35.047319,-85.305834,McCallie Ave & Lindsay St,15
+1331,E 5th St & Collins St,35.047862,-85.297186,E 5th St & Collins St,15
+1333,800 E 8th St,35.043639,-85.297988,800 E 8th St,15
+1335,Oak St & University Greenway,35.045057,-85.296087,Oak St & University Greenway,15
+1337,Oak St & Houston St,35.047574,-85.302739,Oak St & Houston St,15
+1341,E Main St & Rossville Ave,35.035217,-85.305187,218 E Main St,15
+1343,Broad St & W 4th St,35.05251,-85.310874,401 Broad St,11
+1345,Broad St & W 8th St,35.047205,-85.310675,735 Broad St,15
+1347,W Main St & Cowart St,35.037381,-85.310411,343 W Main St,15
+1349,1216 Broad St,35.040549,-85.309554,1216 Broad St,15
+1351,1826 Carter St,35.037433,-85.315093,1826 Carter St,15
+1353,500 Georgia Ave,35.050771,-85.305346,500 Georgia Ave,15
+1363,Broad St & W 10th St,35.044458,-85.310458,Broad St & W 10th St,15
+1369,Douglas St,35.048285,-85.300237,Douglas St & Vine St,15
+1373,Hubert Fry Center Tennessee Riverpark,35.096003,-85.254503,4310 Amnicola Hwy,25
+1420,SpringHill Suites,35.053801,-85.32021,495 Riverfront Pkwy,15
+1421,Pine St. & W. 6th St.,35.049271,-85.312617,Pine St. & W. 6th St.,15
+1429,Blue Goose Hollow,35.050405,-85.323739,Blue Goose Hollow River Park Entrance,19
+1430,Curtain Pole,35.065416,-85.274031,Curtain Pole River Park Entrance,19
+1431,MLK and University St,35.043238,-85.301804,526 E MLK Blvd,15
+1432,Middle St,35.019621,-85.324018,Middle st,19
+1433,Westin Chattanooga,35.047222,-85.313087,801 Pine Street,11

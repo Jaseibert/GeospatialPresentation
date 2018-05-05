@@ -1,0 +1,499 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.310469,35.063014 ]
+    },
+    "properties": {
+    "station_id":1297,
+    "name":"100 Manufacturers Rd",
+    "address":"100 Manufacturers Rd",
+    "bike_capacity":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.306574,35.06141 ]
+    },
+    "properties": {
+    "station_id":1299,
+    "name":"200 River St Outdoor Chattanooga",
+    "address":"200 River St",
+    "bike_capacity":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.315211,35.063304 ]
+    },
+    "properties": {
+    "station_id":1301,
+    "name":"301 Manufacturers Rd",
+    "address":"301 Manufacturers Rd",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.310925,35.053928 ]
+    },
+    "properties": {
+    "station_id":1303,
+    "name":"215 Broad St",
+    "address":"215 Broad St",
+    "bike_capacity":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.307269,35.036904 ]
+    },
+    "properties": {
+    "station_id":1305,
+    "name":"Market St & E 14th St",
+    "address":"Market St & E 14th St",
+    "bike_capacity":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.309483,35.052701 ]
+    },
+    "properties": {
+    "station_id":1307,
+    "name":"Market & E 4th Street",
+    "address":"Market and E 4th",
+    "bike_capacity":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.309331,35.042774 ]
+    },
+    "properties": {
+    "station_id":1309,
+    "name":"Market St & W 12th St",
+    "address":"Market St & W 12th St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.308394,35.040771 ]
+    },
+    "properties": {
+    "station_id":1311,
+    "name":"Market St & Cowart St",
+    "address":"Market St & Cowart St",
+    "bike_capacity":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.310487,35.056655 ]
+    },
+    "properties": {
+    "station_id":1313,
+    "name":"Chestnut St & Riverfront Pkwy",
+    "address":"100 Riverfront Parkway",
+    "bike_capacity":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.312762,35.043367 ]
+    },
+    "properties": {
+    "station_id":1315,
+    "name":"Carter St & W 12th St",
+    "address":"Carter St & W 12th St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.310399,35.049429 ]
+    },
+    "properties": {
+    "station_id":1317,
+    "name":"Broad St & W 6th St",
+    "address":"Broad St & W 6th St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.307813,35.055687 ]
+    },
+    "properties": {
+    "station_id":1319,
+    "name":"100 Walnut St",
+    "address":"100 Walnut St",
+    "bike_capacity":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.305448,35.054161 ]
+    },
+    "properties": {
+    "station_id":1321,
+    "name":"High St & E 2nd St",
+    "address":"High St & E 2nd St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.312797,35.055582 ]
+    },
+    "properties": {
+    "station_id":1323,
+    "name":"Power Alley & Riverfront Pkwy",
+    "address":"Power Alley & Riverfront Pkwy",
+    "bike_capacity":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.307395,35.0462019 ]
+    },
+    "properties": {
+    "station_id":1325,
+    "name":"Patten Parkway",
+    "address":"17 Patten Parkway",
+    "bike_capacity":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.307015,35.044973 ]
+    },
+    "properties": {
+    "station_id":1327,
+    "name":"ML King Blvd & Lindsay St",
+    "address":"M.L. King Blvd & Lindsay St",
+    "bike_capacity":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.305834,35.047319 ]
+    },
+    "properties": {
+    "station_id":1329,
+    "name":"McCallie Ave & Lindsay St",
+    "address":"McCallie Ave & Lindsay St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.297186,35.047862 ]
+    },
+    "properties": {
+    "station_id":1331,
+    "name":"E 5th St & Collins St",
+    "address":"E 5th St & Collins St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.297988,35.043639 ]
+    },
+    "properties": {
+    "station_id":1333,
+    "name":"800 E 8th St",
+    "address":"800 E 8th St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.296087,35.045057 ]
+    },
+    "properties": {
+    "station_id":1335,
+    "name":"Oak St & University Greenway",
+    "address":"Oak St & University Greenway",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.302739,35.047574 ]
+    },
+    "properties": {
+    "station_id":1337,
+    "name":"Oak St & Houston St",
+    "address":"Oak St & Houston St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.305187,35.035217 ]
+    },
+    "properties": {
+    "station_id":1341,
+    "name":"E Main St & Rossville Ave",
+    "address":"218 E Main St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.310874,35.05251 ]
+    },
+    "properties": {
+    "station_id":1343,
+    "name":"Broad St & W 4th St",
+    "address":"401 Broad St",
+    "bike_capacity":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.310675,35.047205 ]
+    },
+    "properties": {
+    "station_id":1345,
+    "name":"Broad St & W 8th St",
+    "address":"735 Broad St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.310411,35.037381 ]
+    },
+    "properties": {
+    "station_id":1347,
+    "name":"W Main St & Cowart St",
+    "address":"343 W Main St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.309554,35.040549 ]
+    },
+    "properties": {
+    "station_id":1349,
+    "name":"1216 Broad St",
+    "address":"1216 Broad St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.315093,35.037433 ]
+    },
+    "properties": {
+    "station_id":1351,
+    "name":"1826 Carter St",
+    "address":"1826 Carter St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.305346,35.050771 ]
+    },
+    "properties": {
+    "station_id":1353,
+    "name":"500 Georgia Ave",
+    "address":"500 Georgia Ave",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.310458,35.044458 ]
+    },
+    "properties": {
+    "station_id":1363,
+    "name":"Broad St & W 10th St",
+    "address":"Broad St & W 10th St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.300237,35.048285 ]
+    },
+    "properties": {
+    "station_id":1369,
+    "name":"Douglas St",
+    "address":"Douglas St & Vine St",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.254503,35.096003 ]
+    },
+    "properties": {
+    "station_id":1373,
+    "name":"Hubert Fry Center Tennessee Riverpark",
+    "address":"4310 Amnicola Hwy",
+    "bike_capacity":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.32021,35.053801 ]
+    },
+    "properties": {
+    "station_id":1420,
+    "name":"SpringHill Suites",
+    "address":"495 Riverfront Pkwy",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.312617,35.049271 ]
+    },
+    "properties": {
+    "station_id":1421,
+    "name":"Pine St. & W. 6th St.",
+    "address":"Pine St. & W. 6th St.",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.323739,35.050405 ]
+    },
+    "properties": {
+    "station_id":1429,
+    "name":"Blue Goose Hollow",
+    "address":"Blue Goose Hollow River Park Entrance",
+    "bike_capacity":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.274031,35.065416 ]
+    },
+    "properties": {
+    "station_id":1430,
+    "name":"Curtain Pole",
+    "address":"Curtain Pole River Park Entrance",
+    "bike_capacity":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.301804,35.043238 ]
+    },
+    "properties": {
+    "station_id":1431,
+    "name":"MLK and University St",
+    "address":"526 E MLK Blvd",
+    "bike_capacity":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.324018,35.019621 ]
+    },
+    "properties": {
+    "station_id":1432,
+    "name":"Middle St",
+    "address":"Middle st",
+    "bike_capacity":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.313087,35.047222 ]
+    },
+    "properties": {
+    "station_id":1433,
+    "name":"Westin Chattanooga",
+    "address":"801 Pine Street",
+    "bike_capacity":11
+    }
+  }
+]
+}
